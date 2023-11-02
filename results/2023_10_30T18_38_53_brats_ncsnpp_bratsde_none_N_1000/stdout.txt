@@ -1,0 +1,8 @@
+INFO - run_lib.py - 2023-10-30 18:38:58,720 - Starting training loop at step 0.
+INFO - run_lib.py - 2023-10-30 18:38:59,903 - step: 0, training_loss: 9.97709e-01
+INFO - run_lib.py - 2023-10-30 18:39:20,008 - step: 50, training_loss: 9.73774e-01
+INFO - run_lib.py - 2023-10-30 18:39:40,510 - step: 100, training_loss: 9.17172e-01
+INFO - run_lib.py - 2023-10-30 18:40:00,149 - step: 150, training_loss: 8.11113e-01
+INFO - run_lib.py - 2023-10-30 18:40:19,787 - step: 200, training_loss: 6.92292e-01
+INFO - run_lib.py - 2023-10-30 18:40:39,460 - step: 250, training_loss: 6.86984e-01
+INFO - run_lib.py - 2023-10-30 18:40:59,460 - step: 300, training_loss: 4.21691e-01
