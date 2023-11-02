@@ -8,7 +8,7 @@ def get_default_configs():
   config.training = training = ml_collections.ConfigDict()
   config.training.batch_size = 1
   training.continue_train = False
-  training.continue_folder = '2023_06_02T15_12_28_brats_ncsnpp_bratsde_none_N_1500' # vp 2023_02_20T20_22_47_ddpm_bratsde_mri_N_1000 
+  training.continue_folder = '2023_02_20T20_22_47_ddpm_bratsde_mri_N_1000 ' 
   training.continue_ckpt = 10
   training.epochs = 1000
   training.snapshot_freq = 50000

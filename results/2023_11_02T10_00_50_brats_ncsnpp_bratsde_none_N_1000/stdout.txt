@@ -1,2 +1,0 @@
-INFO - run_lib.py - 2023-11-02 10:00:52,973 - Starting training loop at step 0.
-INFO - run_lib.py - 2023-11-02 10:01:00,986 - step: 0, training_loss: 1.00763e+00
